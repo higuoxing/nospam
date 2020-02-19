@@ -1,0 +1,6 @@
+### Plan
+
+* Writing rules in Python.
+* Dynamically change rules, and database.
+* Write it in Rust?!
+* GUI (Web or Native Client)
